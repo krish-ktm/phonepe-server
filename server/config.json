@@ -1,0 +1,12 @@
+{
+  "allowedDomains": ["*"],
+  "phonepe": {
+    "merchantId": "PGTESTPAYUAT",
+    "saltKey": "099eb0cd-02cf-4e2a-8aca-3e6c6aff0399",
+    "saltIndex": "1",
+    "baseUrl": "https://api-preprod.phonepe.com/apis/pg-sandbox"
+  },
+  "callbackPath": "/api/phonepe-callback",
+  "port": 3001,
+  "serverBaseUrl": "http://localhost:3001"
+}
